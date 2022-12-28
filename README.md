@@ -1,6 +1,6 @@
 # Multi-Thread Order Handler
 
-This Java program is designed to replicate order processing for Black Friday. The purpose is to process orders and the individual items within them concurrently. Input files with orders and products have to be read and output files with shipped orders and products should be produced. The program must be able to detect when all products in an order have been dispatched and mark the entire order as shipped. The "Task.pdf" file can provide more comprehensive information for romanian readers.
+This Java program is designed to replicate order processing for Black Friday. The purpose is to process orders and the individual items within them concurrently. Input files with orders and products have to be read and output files with shipped orders and products are be produced. The program is able to detect when all products in an order have been dispatched and marks the entire order as shipped. The "Task.pdf" file can provide more comprehensive information for romanian readers.
 
 # Input and Output Files Format
 
